@@ -1,5 +1,5 @@
 <h1 align="center">
-📖 Chatapp Using LangChain
+ 🤖 💻 Chatapp Using LangChain
 </h1>
 
 ## 🔧 Features
@@ -22,9 +22,12 @@ Depending on the type of your chain, you may also need to change the inputs/outp
 
 1. Clone the repository📂
 
+```bash
+git clone https://github.com/AliZaiN-157/ChatApp-Langchain.git
+```
 
 
-2. Install dependencies with [Poetry](https://python-poetry.org/) and activate virtual environment🔨
+1. Install dependencies with [Poetry](https://python-poetry.org/) and activate virtual environment🔨
 
 ```bash
 poetry install
@@ -65,7 +68,7 @@ Deploy App on Streamlit Public Cloud
 This app can be deployed on Streamlit Public Cloud using GitHub. Below is the Link to 
 Publicly deployed App
 
-https://Chatapp-langchain.streamlit.app/
+Authors copyright
 
 
 Deploy App on Google App Engine
@@ -94,7 +97,7 @@ I have adopted `Dockerfile` to deploy the app on GCP APP Engine.
 
 3. Access the App using 
 
-https://langchain-chat.ts.r.appspot.com/
+Authors copyright
 
 
 Deploy App on Google Cloud using Cloud Run
